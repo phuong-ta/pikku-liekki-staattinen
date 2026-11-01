@@ -1,0 +1,38 @@
+# Viikko 45 · 2.–6.11.
+
+[Merkinnät]
+L = Laktoositon
+G = Gluteeniton
+M = Maidoton
+VL = Vähälaktoosinen
+V = Vegaaninen
+
+[Maanantai]
+Lohikeitto ja leipä | L
+Uunilohi ja sitruunakastike | G, L
+Kasviscurry ja riisi | V, G, M
+Perunat ja tuore salaatti | V, G, M
+
+[Tiistai]
+Karjalanpaisti | L, G
+Kanasalaatti | G, VL
+Linssipata | V, M
+Perunamuusi | G, L
+
+[Keskiviikko]
+Metsäsienikeitto | G
+Porsaan ulkofilee ja pippurikastike | VL
+Kasvispihvit | V, M
+Bataattiranskalaiset | V, G, M
+
+[Torstai]
+Hernekeitto | G
+Paistettu kuha | G, L
+Falafel-kulho | V, M
+Pannukakku ja hillo | VL
+
+[Perjantai]
+Lihapullat ja puolukat | M
+Savulohipasta | VL
+Tofu-wok | V, M
+Kauden salaatti | V, G, M

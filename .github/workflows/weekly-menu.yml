@@ -1,0 +1,23 @@
+# Sunnuntaisin klo 21:00 (Suomen aika) kopioi content/menu-next.txt -> content/menu.txt.
+# Muutos käynnistää Cloudflare Pagesin uuden buildin automaattisesti.
+name: Viikon menu
+on:
+  schedule:
+    - cron: "0 18 * * 0"   # kesäaika (UTC+3)
+    - cron: "0 19 * * 0"   # talviaika (UTC+2)
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Päivitä menu
+        run: |
+          if [ "$GITHUB_EVENT_NAME" = "schedule" ] && [ "$(TZ=Europe/Helsinki date +%H)" != "21" ]; then echo "Ei vielä klo 21"; exit 0; fi
+          cp content/menu-next.txt content/menu.txt
+          git config user.name "menu-bot"
+          git config user.email "menu-bot@users.noreply.github.com"
+          git add content/menu.txt
+          git diff --cached --quiet || (git commit -m "Viikon menu" && git push)
