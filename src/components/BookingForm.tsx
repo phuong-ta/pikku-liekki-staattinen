@@ -12,7 +12,8 @@ export default function BookingForm() {
     const form = e.currentTarget;
     setStatus("sending");
     try {
-      const data = Object.fromEntries(new FormData(form));
+        const data: Record<string, FormDataEntryValue> = {};
+        new FormData(form).forEach((value, key) => { data[key] = value; });
       const res = await fetch("https://api.web3forms.com/submit", {
         method: "POST",
         headers: { "Content-Type": "application/json", Accept: "application/json" },
