@@ -11,11 +11,12 @@ V = Vegaaninen
 [Maanantai]
 Thaimaalainen Tomyam- sienikeitto | M,G,K 
 Pariloitua kananrintaa kolmen pippurin kastikkeessa | L,G 
-Jasmiininriisi | M,G
+Jasmiininriisi | M,G, Ve
 Murea kassleri sinappi kastikke | L, G 
 Perunamuusi | M,G,Ve
-Munakoiso tempura L, K, Soija-majoneesi M,G,K
-Talon Marja jogurtti mouse | L, K
+Munakoiso tempura | L, V
+Soija-majoneesi | M,G,K
+Talon marja jogurtti mouse | L, K
 
 [Tiistai]
 Vuohenjuusto-tomaattikeitto | L,G,K 
@@ -30,7 +31,7 @@ Talon puolukkapiirakka suolaisella kinuskilla | L, K
 [Keskiviikko]
 Siskonmakkarakeitto | L,G 
 Voilla paistettu muikku | L, G, 
-Tilli voi peruna | L, G, V
+Tilli voi peruna | L, G, Ve
 Vietnamilainen mausteinen grillattu kanan paistileike | M,G 
 Jasmiiniriisiä | M,G,Ve
 Sieni pasta | L, K
@@ -38,7 +39,7 @@ Mangopannacotta | L,G
 
 [Torstai]
 Hernekeitto savupotkalla ja silputtua sipulia | L,G,M
-Hawaiin Kana burger, Paistettu ananas | L
+Hawaiin kana burger, Paistettu ananas | L
 Ranskalaiset | M,G,Ve
 Shanghai possu | M,G 
 Jasmiiniriisiä | M,G,Ve
