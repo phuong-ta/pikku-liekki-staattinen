@@ -1,38 +1,52 @@
-# Viikko 45 · 2.–6.11.
+# Viikko 46 · 9.–13.11.
 
 [Merkinnät]
 L = Laktoositon
 G = Gluteeniton
+K = Kasvis
 M = Maidoton
 VL = Vähälaktoosinen
 V = Vegaaninen
 
 [Maanantai]
-Lohikeitto ja leipä | L
-Uunilohi ja sitruunakastike | G, L
-Kasviscurry ja riisi | V, G, M
-Perunat ja tuore salaatti | V, G, M
+Thaimaalainen Tomyam- sienikeitto | M,G,K 
+Pariloitua kananrintaa kolmen pippurin kastikkeessa | L,G 
+Jasmiininriisi | M,G
+Murea kassleri sinappi kastikke | L, G 
+Perunamuusi | M,G,Ve
+Munakoiso tempura L, K, Soija-majoneesi M,G,K
+Talon Marja jogurtti mouse | L, K
 
 [Tiistai]
-Karjalanpaisti | L, G
-Kanasalaatti | G, VL
-Linssipata | V, M
-Perunamuusi | G, L
+Vuohenjuusto-tomaattikeitto | L,G,K 
+Paneroitu valkoisipuli kanaleikke | G, L Curry majoonesi |L, G ja Jasmiiniriisiä | M,G,Ve
+Torttila naudan jauhelihalla Cheddarjuustokastikkeella | L,G  Tuoretomaattisalsa | M,G,Ve Paahdettu peruna | M,G,Ve
+Sieni ja kasvis sekoitettu riisinuudeli talon kastikkeella | G, L, V
+Talon puolukkapiirakka suolaisella kinuskilla | L, K
 
 [Keskiviikko]
-Metsäsienikeitto | G
-Porsaan ulkofilee ja pippurikastike | VL
-Kasvispihvit | V, M
-Bataattiranskalaiset | V, G, M
+Siskonmakkarakeitto | L,G 
+Voilla paistettu muikku | L, G, 
+Tilli voi peruna | L, G, V
+Vietnamilainen mausteinen grillattu kanan paistileike | M,G 
+Jasmiiniriisiä | M,G,Ve
+Sieni pasta | L, K
+Mangopannacotta | L,G
 
 [Torstai]
-Hernekeitto | G
-Paistettu kuha | G, L
-Falafel-kulho | V, M
-Pannukakku ja hillo | VL
+Hernekeitto savupotkalla ja silputtua sipulia | L,G,M
+Hawaiin Kana burger, Paistettu ananas | L
+Ranskalaiset | M,G,Ve
+Shanghai possu | M,G 
+Jasmiiniriisiä | M,G,Ve
+Juusto-kasvis täytetty herkkusieni, Mustapippuri-lime jogurtti | L,G,K 
+Pannukakkua, talon marjahilloa ja kermavaahtoa | L
 
 [Perjantai]
-Lihapullat ja puolukat | M
-Savulohipasta | VL
-Tofu-wok | V, M
-Kauden salaatti | V, G, M
+Aito vietnamilainen Pho-keitto ja tuoreita yrttejä | L,G
+Kungpao Chicken: Kiinalainen paistettu kana kasviksilla | M,G , 
+Jasmiiniriisiä | M,G,Ve 
+Porsaan ulkoifile pihvi sienikastikkeella | L, G 
+Valkoisipuli kerma peruna | L, G
+Kasviskääryleet | L, K 
+Päärynätrifle | L
